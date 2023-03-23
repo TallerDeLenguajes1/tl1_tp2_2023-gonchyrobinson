@@ -1,3 +1,4 @@
 RESPUESTAS:
 1- f) No puedo ver el archivo tp2_1_2.c porque actualmente estoy posisionado en la rama principal y este archivo se llama en la rama Opcion_2
 f)* Luego de hacer el commit correspondiente, puedo notar que se genera una desviación de la rama main luego de crear el archivo tp2_1_1. En esta desviacion, se puede ver la creación del archivo tp2_1_2 y luego un regreso a la rama main con la creacion del archivo respuestas
+f)** Luego de unir ambas ramas, graficamente, puedo ver que la rama opcion 2, se vuelve a juntar con la rama main
