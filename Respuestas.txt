@@ -1,0 +1,2 @@
+RESPUESTAS:
+1- f) No puedo ver el archivo tp2_1_2.c porque actualmente estoy posisionado en la rama principal y este archivo se llama en la rama Opcion_2
